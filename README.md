@@ -1,2 +1,2 @@
 # Public
-Bob's Mad Labratory
+Bob's Mad Laboratory
